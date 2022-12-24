@@ -1,1 +1,1 @@
-# Spending-tracker
+# Wallet-Buddy
